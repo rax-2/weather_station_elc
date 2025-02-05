@@ -46,7 +46,3 @@ This project is a **Live Weather Station** using a **Raspberry Pi Pico W** and a
   "humidity": 75
 }
 ```
-
-## License
-This project is open-source under the **MIT License**.
-
